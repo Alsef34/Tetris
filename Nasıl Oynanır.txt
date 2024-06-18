@@ -1,0 +1,14 @@
+Yukarı Ok ve Z tuşu : Blokları çevirir.
+
+Aşağı Ok : Bloğu aşağıya indirir.
+
+Sağ Ok : Bloğu sağa götürür.
+
+Sol Ok: Bloğu sola götürür.
+
+C tuşu : Bloğu tutup bir kenara ayırır ve bir kere daha aynı tuşa basarsanız sonraki blokla yer değiştirir.
+
+Boşluk : Bloğu anında en alt satıra indirip dizer.
+
+
+"Tetris > Bin > Debug > net8.0-windows > Tetris.exe" uygulamasını çalıştırarak oyunu oynayabilirsiniz.

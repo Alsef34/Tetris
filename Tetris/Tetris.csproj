@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>assets\Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\Background.png" />
+    <None Remove="assets\Block-Empty.png" />
+    <None Remove="assets\Block-I.png" />
+    <None Remove="assets\Block-J.png" />
+    <None Remove="assets\Block-L.png" />
+    <None Remove="assets\Block-O.png" />
+    <None Remove="assets\Block-S.png" />
+    <None Remove="assets\Block-T.png" />
+    <None Remove="assets\Block-Z.png" />
+    <None Remove="assets\Icon.ico" />
+    <None Remove="assets\TileBlue.png" />
+    <None Remove="assets\TileCyan.png" />
+    <None Remove="assets\TileEmpty.png" />
+    <None Remove="assets\TileGreen.png" />
+    <None Remove="assets\TileOrange.png" />
+    <None Remove="assets\TilePurple.png" />
+    <None Remove="assets\TileRed.png" />
+    <None Remove="assets\TileYellow.png" />
+    <None Remove="Background.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="assets\Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\Background.png" />
+    <Resource Include="assets\Block-Empty.png" />
+    <Resource Include="assets\Block-I.png" />
+    <Resource Include="assets\Block-J.png" />
+    <Resource Include="assets\Block-L.png" />
+    <Resource Include="assets\Block-O.png" />
+    <Resource Include="assets\Block-S.png" />
+    <Resource Include="assets\Block-T.png" />
+    <Resource Include="assets\Block-Z.png" />
+    <Resource Include="assets\Icon.ico" />
+    <Resource Include="assets\TileBlue.png" />
+    <Resource Include="assets\TileCyan.png" />
+    <Resource Include="assets\TileEmpty.png" />
+    <Resource Include="assets\TileGreen.png" />
+    <Resource Include="assets\TileOrange.png" />
+    <Resource Include="assets\TilePurple.png" />
+    <Resource Include="assets\TileRed.png" />
+    <Resource Include="assets\TileYellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Background.png" />
+  </ItemGroup>
+
+</Project>
